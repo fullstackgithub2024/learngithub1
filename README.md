@@ -1,2 +1,2 @@
-# learngithub1
-Demo files
+# Web-Development-Course
+Public Repository for Web Development Course for Beginners
